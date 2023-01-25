@@ -73,4 +73,12 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 .vscode/
-Content/
+
+Content/__ExternalActors__/
+Content/__ExternalActors__/
+Content/__ExternalObjects__/
+Content/FirstPerson/
+Content/FirstPersonArms/
+Content/FPWeapon/
+Content/LevelPrototyping/
+Content/MedievalDungeon/
